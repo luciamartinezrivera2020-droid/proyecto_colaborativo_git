@@ -1,1 +1,1 @@
-Prueba Colaborativa Git A
+Prueba Colaborativa Git
